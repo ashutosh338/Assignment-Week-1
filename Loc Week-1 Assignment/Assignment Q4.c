@@ -39,7 +39,7 @@ void main()
         {
             printf("Grade C");
         }
-        else if(per=60)
+        else if(per>=60)
         {
             printf("Grade D");
         }
